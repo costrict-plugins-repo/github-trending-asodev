@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "asodev-skills",
+  "version": "1.0.0",
+  "description": "ASO.dev skills for App Store Optimization, App Store Connect workflows, Google Play ASO, metadata, localization, reviews, monetization, subscriptions, pricing, In-App Events, featuring nominations, local AI Companion MCP workflows, and ASO.dev public API workflows.",
+  "author": {
+    "name": "ASO.dev",
+    "url": "https://aso.dev"
+  },
+  "homepage": "https://aso.dev",
+  "repository": "https://github.com/asodevapp/skills",
+  "license": "MIT",
+  "keywords": [
+    "aso",
+    "app-store-optimization",
+    "app-store-connect",
+    "google-play",
+    "metadata",
+    "localization",
+    "keywords",
+    "reviews",
+    "monetization"
+  ]
+}

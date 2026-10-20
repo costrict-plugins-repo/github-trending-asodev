@@ -1,0 +1,47 @@
+{
+  "name": "asodev-skills",
+  "owner": {
+    "name": "ASO.dev"
+  },
+  "description": "ASO.dev Agent Skills for App Store Optimization, App Store Connect workflows, Google Play ASO, ASO audits, keyword research, competitor analysis, analytics, Apple Ads intelligence, metadata, Figma JSON localization, reviews, In-App Events, featuring nominations, localization, monetization, subscriptions, pricing, AI Companion MCP integration, and ASO.dev public API workflows.",
+  "version": "1.0.0",
+  "metadata": {
+    "description": "ASO.dev Agent Skills for App Store Optimization, App Store Connect workflows, Google Play ASO, ASO audits, keyword research, competitor analysis, analytics, Apple Ads intelligence, metadata, Figma JSON localization, reviews, In-App Events, featuring nominations, localization, monetization, subscriptions, pricing, AI Companion MCP integration, and ASO.dev public API workflows.",
+    "version": "1.0.0",
+    "repository": "https://github.com/asodevapp/skills"
+  },
+  "plugins": [
+    {
+      "name": "asodev-skills",
+      "description": "27 ASO.dev skills for app marketers, growth teams, and AI agents working with ASO.dev. Covers local AI Companion MCP, ASO.dev public APIs, Apple and Google metadata, ASO audits, keyword/search query CSV analysis, keyword research, competitor analysis, Apple Ads intelligence, analytics, localization, Figma JSON localization, screenshots, review CSV analysis, reviews and ratings, In-App Events, featuring nominations, CPP/PPO, IAP, subscriptions, pricing, CSV price templates, monetization, seasonal planning, and validation.",
+      "source": "./",
+      "author": {
+        "name": "ASO.dev",
+        "url": "https://aso.dev"
+      },
+      "homepage": "https://aso.dev",
+      "repository": "https://github.com/asodevapp/skills",
+      "license": "MIT",
+      "keywords": [
+        "aso",
+        "app-store-optimization",
+        "app-store-connect",
+        "google-play",
+        "metadata",
+        "localization",
+        "keywords",
+        "reviews",
+        "monetization"
+      ],
+      "category": "marketing",
+      "tags": [
+        "aso",
+        "app-store",
+        "google-play",
+        "growth",
+        "localization",
+        "metadata"
+      ]
+    }
+  ]
+}
